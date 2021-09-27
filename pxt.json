@@ -7,7 +7,6 @@
     },
     "files": [
         "README.md",
-        "BitIR.ts",
         "Bit_IR.cpp",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
