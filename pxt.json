@@ -6,6 +6,7 @@
         "core": "*"
     },
     "files": [
+        "BitIR.ts",
         "README.md",
         "huskylens.ts",
         "i2c.cpp",
