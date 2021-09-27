@@ -12,9 +12,7 @@
         "ReceiverIR.h",
         "RemoteIR.h",
         "huskylens.ts",
-        "_locales/zh-cn/Huskylens-strings.json",
         "i2c.cpp",
-        "_locales/zh-tw/Huskylens-strings.json",
         "shims.d.ts",
         "enums.d.ts"
     ],
