@@ -7,10 +7,6 @@
     },
     "files": [
         "README.md",
-        "BitIR.ts",
-        "Bit_IR.cpp",
-        "ReceiverIR.cpp",
-        "ReceiverIR.h",
         "huskylens.ts",
         "i2c.cpp",
         "shims.d.ts",
